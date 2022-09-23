@@ -1,2 +1,2 @@
 # git_branches
-clase de ramificaciones de git
+Clase de ramificaciones de git y versionamiento. 
